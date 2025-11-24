@@ -1,4 +1,4 @@
-# 🚖 TaxiBookingApp
+# 🚖 Trip Ease App
 
 A simple **Cab Booking Backend System** built using **Spring Boot**.  
 It simulates a real-world ride-hailing service (like Uber/Ola) with features for **Customer, Driver, Cab, and Booking management**.  
@@ -94,7 +94,7 @@ erDiagram
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/RaushanImamAnsari/TaxiBookingApp.git
+git clone https://github.com/Sahil-Ali-01/TripEaseApp.git
 cd TaxiBookingApp
 
 2️⃣ Configure Database
@@ -133,7 +133,7 @@ This project is licensed under the MIT License – feel free to use and modify i
 
 ### Connected with me:
 
-LinkedIn:[www.linkedin.com/in/raushan-imam-8705xa]
+LinkedIn:[https://www.linkedin.com/in/sahil189alig/]
 
 
 
